@@ -1,43 +1,7 @@
 <!-- # html_notebook: default --> <!-- # word_document: default -->
 <!-- # html_document: --> <!-- #   df_print: paged --> Load
 
-    library(tidyverse)
-
-    ## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
-
-    ## v ggplot2 3.3.5     v purrr   0.3.4
-    ## v tibble  3.1.2     v dplyr   1.0.7
-    ## v tidyr   1.1.3     v stringr 1.4.0
-    ## v readr   1.4.0     v forcats 0.5.1
-
-    ## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
-    ## x dplyr::filter() masks stats::filter()
-    ## x dplyr::lag()    masks stats::lag()
-
-    library(magrittr)
-
-    ## 
-    ## Attaching package: 'magrittr'
-
-    ## The following object is masked from 'package:purrr':
-    ## 
-    ##     set_names
-
-    ## The following object is masked from 'package:tidyr':
-    ## 
-    ##     extract
-
-    library(gtools)
-
-    knitr::opts_chunk$set(echo = FALSE)
-    knitr::opts_chunk$set(fig.width = 12,fig.height = 8)
-
-    pal = c('#7fc97f','#beaed4','#fdc086','#ffff99','#386cb0','#f0027f','#bf5b17','#666666')
-
-    pal_a = c('#8dd3c7','#ffffb3','#bebada','#fb8072')
-
-Select columns of interest. Check out the excel file in the folder for
-the automatization of this step.
+    
 
 # Income ranges from original file
 
