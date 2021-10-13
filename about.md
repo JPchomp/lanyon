@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ##page
 title: About
 ---
 
@@ -8,4 +8,4 @@ title: About
 </p>
 
 
-Change this about!
+Could redirect here to personal cv
