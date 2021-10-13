@@ -1,5 +1,7 @@
-<!-- # html_notebook: default --> <!-- # word_document: default -->
-<!-- # html_document: --> <!-- #   df_print: paged --> Load
+---
+layout: post
+title: First trial at markdown on blog
+---
 
     
 
