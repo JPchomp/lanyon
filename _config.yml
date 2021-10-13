@@ -3,7 +3,7 @@ title:               Juan Pablo Bertucci
 tagline:             'Trying this out'
 description:         'A cool dude'
 url:                 http://jpchomp.github.io/lanyon
-baseurl:             ''
+baseurl:             http://jpchomp.github.io/lanyon
 paginate:            5
 permalink:           pretty
 
