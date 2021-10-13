@@ -3,7 +3,7 @@ title:               Juan Pablo Bertucci
 tagline:             'Transportation Mercenary'
 description:         'An attempt at a blog/cv'
 url:                 https://jpchomp.github.io/lanyon
-cv_url:                 https://jpchomp.github.io
+cv_url:              https://jpchomp.github.io
 baseurl:             ''
 paginate:            2
 permalink:           pretty
