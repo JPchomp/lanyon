@@ -11,7 +11,7 @@ bike, with only 3.8 road deaths per 100.000 inhabitants.
 
 Bicycle facilities that accomodate everyone.
 
-![Parking spaces near](./pictures/001_parking.jpg)
+![Parking spaces near]({{post.url}}/pictures/001_parking.jpg)
 
 The bike lane availability is incredible.
 
@@ -32,8 +32,6 @@ adequately](./pictures/003_cones_road.jpg)
 
 ## Safety
 
-    library(tidyverse); library(magrittr); library(reactable)
-
     ## Warning: package 'magrittr' was built under R version 4.0.3
 
     ## 
@@ -49,28 +47,7 @@ adequately](./pictures/003_cones_road.jpg)
 
     ## Warning: package 'reactable' was built under R version 4.0.5
 
-    data = read.csv(file = here::here("2021-15-10-bycicles-in-netherlands","data","bike_score.csv"),
-                    encoding = "UTF-8")
-
-    reactable(
-      data,
-      defaultColDef = colDef(
-        header = function(value)
-          gsub("_", " ", value, fixed = TRUE),
-        cell = function(value)
-          format(value, nsmall = 1),
-        align = "center",
-        minWidth = 80,
-        headerStyle = list(background = "#f7f7f8")
-      ))
-
-![](2021-15-10-bicycles-in-the-netherlands_files/figure-markdown_strict/unnamed-chunk-1-1.png)
-
-    # ,
-    #   columns = list(Species = colDef(minWidth = 140)  # overrides the default),
-    #                  bordered = TRUE,
-    #                  highlight = TRUE
-    #   ))
+![](2021-10-15-bicycles-in-the-netherlands_files/figure-markdown_strict/unnamed-chunk-1-1.png)
 
 ## Measure
 
