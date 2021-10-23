@@ -41,7 +41,7 @@ adequately](./pictures/003_cones_road.jpg)
       title="Inline Frame Example"
       width="300"
       height="200"
-      src="http://github.io/JPchomp/lanyon/widgets/table.html">
+      src="http://github.com/JPchomp/lanyon/widgets/table.html">
   </iframe>
 
 ## Measure
