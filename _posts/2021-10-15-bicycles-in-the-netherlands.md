@@ -39,8 +39,8 @@ adequately](./pictures/003_cones_road.jpg)
 
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
-      width="300"
-      height="200"
+      width="1000"
+      height="700"
       src="http://github.com/JPchomp/lanyon/widgets/table.html">
   </iframe>
 
