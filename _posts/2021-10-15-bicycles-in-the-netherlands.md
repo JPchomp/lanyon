@@ -17,22 +17,24 @@ The bike lane availability is incredible.
 
 ![Bike cage](./pictures/002_bike_cage.jpg)
 
-## Intermodal
+### Intermodal
 
 You can take the bicycle anywhere. Hop on the metro. Hop on the train.
 Especially around hubs, there is a safe place to leave your bicycle.
 This leads to the next topic
+
+### Continuous
+
+Even over a bridge. Dedicated lanes for each way!
 
 ## Culture
 
 Bike goes Before pedestrians even!
 
 ![Manouvering over bike lane, then you need to deflect traffic
-adequately](./pictures/003_cones_road.JPG)
+adequately](./pictures/003_cones_road.jpg)
 
 ## Safety
-
-    ## Warning: package 'magrittr' was built under R version 4.0.3
 
     ## 
     ## Attaching package: 'magrittr'
@@ -45,9 +47,11 @@ adequately](./pictures/003_cones_road.JPG)
     ## 
     ##     extract
 
-    ## Warning: package 'reactable' was built under R version 4.0.5
-
-![](2021-10-15-bicycles-in-the-netherlands_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+<iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="./2021-10-15-bicycles-in-the-netherlands_files/table.html"> </iframe>
 
 ## Measure
 
