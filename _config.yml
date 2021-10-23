@@ -2,8 +2,8 @@
 title:               Juan Pablo Bertucci
 tagline:             'Transport and statistics'
 description:         'An attempt at a blog'
-url:                 https://jpchomp.github.io/lanyon
-baseurl:             ''
+url:                 https://jpchomp.github.io
+baseurl:             '/lanyon'
 paginate:            1
 permalink:           pretty
 

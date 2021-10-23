@@ -46,8 +46,8 @@ adequately](./pictures/003_cones_road.jpg)
 
 ## Measure
 
-![Bike cage](./pictures/008_measuring.jpg) ![Bike
-cage](./pictures/008_measuring_2.jpg)
+![Bike cage](./pictures/008_measuring.jpg) 
+![Bike_cage](./pictures/008_measuring_2.jpg)
 
 ## Geography
 
