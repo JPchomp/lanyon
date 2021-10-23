@@ -11,11 +11,11 @@ bike, with only 3.8 road deaths per 100.000 inhabitants.
 
 Bicycle facilities that accomodate everyone.
 
-![Parking spaces near](./pictures/001_parking.jpg)
+![Parking spaces near](/assets/img/001_parking.jpg)
 
 The bike lane availability is incredible.
 
-![Bike cage](./pictures/002_bike_cage.jpg)
+![Bike cage](/assets/img/002_bike_cage.jpg)
 
 ### Intermodal
 
@@ -41,7 +41,7 @@ adequately](./pictures/003_cones_road.jpg)
       title="Inline Frame Example"
       width="1000"
       height="700"
-      src="http://github.com/JPchomp/lanyon/widgets/table.html">
+      src="http://github.com/JPchomp/lanyon/assets/html/table.html">
   </iframe>
 
 ## Measure
