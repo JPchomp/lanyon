@@ -36,22 +36,7 @@ adequately](./pictures/003_cones_road.jpg)
 
 ## Safety
 
-    ## 
-    ## Attaching package: 'magrittr'
-
-    ## The following object is masked from 'package:purrr':
-    ## 
-    ##     set_names
-
-    ## The following object is masked from 'package:tidyr':
-    ## 
-    ##     extract
-
-<iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="./2021-10-15-bicycles-in-the-netherlands_files/table.html"> </iframe>
+![table](./2021-10-15-bicycles-in-the-netherlands_files/table.html)
 
 ## Measure
 
