@@ -37,17 +37,17 @@ adequately](./pictures/003_cones_road.jpg)
 ## Safety
 
 
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="1000"
-      height="700"
-      src="http://github.com/JPchomp/lanyon/widgets/table.html">
+  <iframe id= "inlineFrameExample"
+      title= "Inline Frame Example"
+      width= "1000"
+      height= "700"
+      src= "http://github.com/JPchomp/lanyon/widgets/table.html">
   </iframe>
 
 ## Measure
 
-![Bike cage](./pictures/008_measuring.jpg) ![Bike
-cage](./pictures/008_measuring_2.jpg)
+![Bike cage](./pictures/008_measuring.jpg) 
+![Bike_cage](./pictures/008_measuring_2.jpg)
 
 ## Geography
 
