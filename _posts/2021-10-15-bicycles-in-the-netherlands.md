@@ -11,7 +11,7 @@ bike, with only 3.8 road deaths per 100.000 inhabitants.
 
 Bicycle facilities that accomodate everyone.
 
-![Parking spaces near](github.io/jpchomp/lanyon/_posts/2021-10-15-bicycles-in-the-netherlands/pictures/001_parking.jpg)
+![Parking spaces near](./pictures/001_parking.jpg)
 
 The bike lane availability is incredible.
 
@@ -28,7 +28,7 @@ This leads to the next topic
 Bike goes Before pedestrians even!
 
 ![Manouvering over bike lane, then you need to deflect traffic
-adequately](./pictures/003_cones_road.jpg)
+adequately](./pictures/003_cones_road.JPG)
 
 ## Safety
 
