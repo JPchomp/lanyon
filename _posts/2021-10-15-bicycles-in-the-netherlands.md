@@ -36,7 +36,13 @@ adequately](./pictures/003_cones_road.jpg)
 
 ## Safety
 
-![table](./2021-10-15-bicycles-in-the-netherlands_files/table.html)
+
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="http://github.io/JPchomp/lanyon/widgets/table.html">
+  </iframe>
 
 ## Measure
 
